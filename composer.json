@@ -18,7 +18,7 @@
                 "ahmadcahyana\\webpgenerator\\WebpGeneratorServiceProvider"
             ],
             "aliases": {
-                "Webp": "ahmadcahyana\\webpgenerator\\Webp"
+                "Webp": "ahmadcahyana\\webpgenerator\\WebpGenerator"
             }
         }
     },
