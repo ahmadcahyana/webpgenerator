@@ -11,5 +11,18 @@
         "psr-4": {
             "ahmadcahyana\\webpgenerator\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ahmadcahyana\\webpgenerator\\WebpGeneratorServiceProvider"
+            ],
+            "aliases": {
+                "Webp": "ahmadcahyana\\webpgenerator\\Webp"
+            }
+        }
+    },
+    "config": {
+        "sort-packages": true
     }
 }
