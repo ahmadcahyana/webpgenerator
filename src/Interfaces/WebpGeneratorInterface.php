@@ -1,7 +1,7 @@
 <?php
 
 
-namespace yanaberkarya\webpgenerator\Interfaces;
+namespace AhmadCahyana\WebpGenerator\Interfaces;
 
 
 use Illuminate\Support\Facades\Storage;

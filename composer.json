@@ -18,21 +18,21 @@
     },
     "autoload": {
         "psr-4": {
-            "Ahmadcahyana\\WebpGenerator\\": "src/"
+            "AhmadCahyana\\WebpGenerator\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Ahmadcahyana\\WebpGenerator\\": "tests"
+            "AhmadCahyana\\WebpGenerator\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Ahmadcahyana\\WebpGenerator\\WebpGeneratorServiceProvider"
+                "AhmadCahyana\\WebpGenerator\\WebpGeneratorServiceProvider"
             ],
             "aliases": {
-                "WebpGenerator": "Ahmadcahyana\\WebpGenerator\\WebpGenerator"
+                "WebpGenerator": "AhmadCahyana\\WebpGenerator\\WebpGenerator"
             }
         }
     },

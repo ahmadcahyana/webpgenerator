@@ -1,6 +1,7 @@
 <?php
 
-namespace yanaberkarya\webpgenerator;
+namespace AhmadCahyana\WebpGenerator;
+
 use Illuminate\Support\ServiceProvider;
 
 class WebpGeneratorServiceProvider extends ServiceProvider

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace yanaberkarya\webpgenerator\Facades;
+namespace AhmadCahyana\WebpGenerator\Facades;
 
 
 use Illuminate\Support\Facades\Facade;

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace yanaberkarya\webpgenerator;
+namespace AhmadCahyana\WebpGenerator;
 
 use Exception;
 use Illuminate\Support\Facades\Config;

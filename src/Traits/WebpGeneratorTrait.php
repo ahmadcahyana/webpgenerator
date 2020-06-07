@@ -1,7 +1,7 @@
 <?php
 
 
-namespace yanaberkarya\webpgenerator\Traits;
+namespace AhmadCahyana\WebpGenerator\Traits;
 
 
 use Illuminate\Support\Facades\Config;

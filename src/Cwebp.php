@@ -1,13 +1,13 @@
 <?php
 
 
-namespace yanaberkarya\webpgenerator;
+namespace AhmadCahyana\WebpGenerator;
 
 
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\Facades\Storage;
-use yanaberkarya\webpgenerator\Interfaces\WebpGeneratorInterface;
-use yanaberkarya\webpgenerator\Traits\WebpGeneratorTrait;
+use AhmadCahyana\WebpGenerator\Interfaces\WebpGeneratorInterface;
+use AhmadCahyana\WebpGenerator\Traits\WebpGeneratorTrait;
 
 class Cwebp implements WebpGeneratorInterface
 {
