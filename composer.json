@@ -1,0 +1,15 @@
+{
+    "name": "ahmadcahyana/webpgenerator",
+    "authors": [
+        {
+            "name": "Ahmad Cahyana",
+            "email": "ahmadcahyana@outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ahmadcahyana\\webpgenerator\\": "src/"
+        }
+    }
+}
